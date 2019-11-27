@@ -1,0 +1,116 @@
+<style>
+           body {
+            text-align: center;
+            background-color:green;
+            font-family:serif;
+        } 
+        h2 {
+            color:maroon; 
+            }  
+
+       h1 {font-size: 48pt;
+       }
+
+       div {
+           width: 60%;
+           margin: auto;  
+           }
+
+      <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        color: #878787;
+        margin: 0;
+        font-family: sans-serif;
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 75px;
+        color: white;
+        text-transform: uppercase;
+        font-weight: normal;
+      }
+
+      img {
+        width: 100%;
+      }
+
+      .nav-bar {
+        list-style-type: none;
+        margin: 0;
+      }
+
+      .nav-bar-list {
+        float: left;
+        padding-top: 10px;
+      }
+
+      .nav-bar-link {
+        color: #878787;
+        font-size: 24px;
+        padding: 20px;
+        text-decoration: none;
+
+      }
+
+      .main-header {
+        padding-top: 200px;
+        height: 850px;
+        background: url("imgs/fall.jpg") no-repeat center;
+        background-size: cover;
+      }
+
+      .title {
+        color: white;
+        font-size: 1.5em;
+      }
+
+      .intro {
+        font-size: 1.25em;
+        line-height: 1.5em;
+        width: 50%;
+        margin: auto;
+        padding: 40px;
+      }
+
+      .box {
+        width: 80%;
+        margin: auto;
+        display: flex;
+      }
+
+      .card {
+        width: 100%;
+        padding: 20px;
+        text-align: left;
+      }
+
+        body {
+            text-align: center;
+            background-color:lightblue;
+            font-family: "Times New Roman", Times, serif;
+            width: 50%;
+            margin:auto;
+        } 
+        h4 {
+            font-size: 15px;
+            color: #008000; 
+        }  
+       h2 {font-size: 2em;
+       }
+
+       ol {
+          text-align:left;
+          width: 50%;
+          color: gray;
+       }
+       img{
+            width: 200px;
+            height: 200px;
+       }
+       
+    </style>
